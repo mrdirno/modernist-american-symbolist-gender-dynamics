@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-american-symbolist-gender-dynamics",
+  "title": "The Velvet Quiet of Whisper",
+  "tagline": "In a curated silence, a woman maps the intricate landscape of a moth's wing while the world demands she frame it for its approval.",
+  "target_words": 75168,
+  "actual_words": 75168,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Tyranny of Domestic Curation",
+    "Artistry Versus Ownership",
+    "The Architecture of Silence",
+    "The Magnified Interior World"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Fine, Persistent Hiss",
+      "words": 6264
+    },
+    {
+      "ch": 2,
+      "title": "A Curator of Evenings",
+      "words": 6264
+    },
+    {
+      "ch": 3,
+      "title": "The Ritual of Tuesdays",
+      "words": 6264
+    },
+    {
+      "ch": 4,
+      "title": "A Silence of Three Days",
+      "words": 6264
+    },
+    {
+      "ch": 5,
+      "title": "The Sea as a Mood",
+      "words": 6264
+    },
+    {
+      "ch": 6,
+      "title": "The Needle Stitching a Seam",
+      "words": 6264
+    },
+    {
+      "ch": 7,
+      "title": "The Raw Throat of Stone",
+      "words": 6264
+    },
+    {
+      "ch": 8,
+      "title": "The Velvet Quiet of Whisper",
+      "words": 6264
+    },
+    {
+      "ch": 9,
+      "title": "The Light of Bureaucracy",
+      "words": 6264
+    },
+    {
+      "ch": 10,
+      "title": "The Same Tarnished Silver",
+      "words": 6264
+    },
+    {
+      "ch": 11,
+      "title": "A Horizon Unmarked",
+      "words": 6264
+    },
+    {
+      "ch": 12,
+      "title": "The Single, Persistent Mark",
+      "words": 6264
+    }
+  ]
+}
